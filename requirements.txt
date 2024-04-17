@@ -1,0 +1,20 @@
+jupyter
+notebook
+pandas
+geopandas
+h3
+h3ronpy
+rasterio
+matplotlib
+dask
+pystac_client
+cartopy
+numpy
+planetary_computer
+stackstac
+distributed
+cython
+# richdem
+hydrosar
+asf_tools
+gdal #pip install wheel from https://github.com/cgohlke/geospatial-wheels/releases/tag/v2024.2.18
